@@ -15,3 +15,5 @@
 # vendor/
 mycards
 _deckTesting
+
+js/general/node_modules
